@@ -1,4 +1,5 @@
 import 'package:amitians/config/colors.dart';
+import 'package:amitians/screens/login/Login.dart';
 import 'package:amitians/screens/nav/nav.dart';
 import 'package:amitians/screens/onboarding_screen/widgets/background.dart';
 import 'package:flutter/material.dart';
@@ -75,7 +76,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                 child: GestureDetector(
               onTap: () => {
                 Navigator.push(context,
-                    MaterialPageRoute(builder: (context) => const Nav()))
+                    MaterialPageRoute(builder: (context) => const Login()))
               },
               child: Stack(
                 children: [
