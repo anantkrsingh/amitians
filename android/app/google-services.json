@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670526577063",
+    "project_id": "hotshot72",
+    "storage_bucket": "hotshot72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670526577063:android:0cce38f22bc028d5587e82",
+        "android_client_info": {
+          "package_name": "com.example.amitians"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670526577063-973vnjpaad6rje63dtsfl53be3fu171t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbUTduMTNSZ9tIFuvxhDnkKN7FshQmJW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670526577063-973vnjpaad6rje63dtsfl53be3fu171t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
